@@ -1,0 +1,111 @@
+{
+  "network": "sepolia",
+  "deployer": "0x247c2aB886014F20ad0514444ddb05ab15002F2e",
+  "atlas": "0x282a81B771d03407da0a98b3eAfB7d1bcea5F483",
+  "items": [
+    {
+      "index": 0,
+      "name": "hoodieTopBars",
+      "filename": "hoodieTopBars.svg",
+      "bytes": 7345,
+      "TopData": "0xd7976349f30A12203682B3AAB58b0aC3Dc3679d5",
+      "pointer": "0xD179815D5ba022A4EAe4d82C6B5a37adefC97dA6"
+    },
+    {
+      "index": 1,
+      "name": "hoodieTopFaces",
+      "filename": "hoodieTopFaces.svg",
+      "bytes": 10073,
+      "TopData": "0x668f2F9b43C17fcE2d68b893ABb7a8D5372049B1",
+      "pointer": "0xD96F1608749A8Ec567328d55287bD687bfDC69D5"
+    },
+    {
+      "index": 2,
+      "name": "hoodieTopFaces2",
+      "filename": "hoodieTopFaces2.svg",
+      "bytes": 10354,
+      "TopData": "0xF3AebD2F8fe417beD6C1C082f027124FA91d1360",
+      "pointer": "0x5041F1af4D6BBE94210b47c22C32CCD1df0e0700"
+    },
+    {
+      "index": 3,
+      "name": "shirtTopBars",
+      "filename": "shirtTopBars.svg",
+      "bytes": 4415,
+      "TopData": "0xE854F1878e537f78FeDd7A64232d0c6f3ddfd904",
+      "pointer": "0x679ED82a3aD5489d5d724b85BB144D697785280c"
+    },
+    {
+      "index": 4,
+      "name": "shirtTopFaces",
+      "filename": "shirtTopFaces.svg",
+      "bytes": 4629,
+      "TopData": "0xE1384F047a08E6A2eD7671F50701Cc314B7a7184",
+      "pointer": "0xefE5cc98d428111029B3bAA7ca13239Cd75e1f73"
+    },
+    {
+      "index": 5,
+      "name": "shirtTopFaces2",
+      "filename": "shirtTopFaces2.svg",
+      "bytes": 4767,
+      "TopData": "0xa3a0a155D39aA48915bdB94E72b7ADC485Ce4B77",
+      "pointer": "0x26107B9dcF98C333248C52BB42B12d0E60FF67eE"
+    },
+    {
+      "index": 6,
+      "name": "tankTopBars",
+      "filename": "tankTopBars.svg",
+      "bytes": 4049,
+      "TopData": "0xB8a0d1e51ca06526756FF603508df9f30Fc64e85",
+      "pointer": "0x60249De450837d8f635FfF500A4dF4338697ded8"
+    },
+    {
+      "index": 7,
+      "name": "tankTopBars2",
+      "filename": "tankTopBars2.svg",
+      "bytes": 4745,
+      "TopData": "0x8398aAC151A97c8d3572cf0Bd8F48ffC8c8cDA5C",
+      "pointer": "0xD0Fa3017eD99918e6527e4c740641d40FFf57c82"
+    },
+    {
+      "index": 8,
+      "name": "tankTopFaces",
+      "filename": "tankTopFaces.svg",
+      "bytes": 3567,
+      "TopData": "0x2b577D243867df99A26A89268EF7be6FFF9f95bB",
+      "pointer": "0x14e1c78CdF898dA631CA61d9040e71860e10bdf5"
+    },
+    {
+      "index": 9,
+      "name": "tankTopFaces2",
+      "filename": "tankTopFaces2.svg",
+      "bytes": 4038,
+      "TopData": "0xA04Bbf4947A917b43DFf80Bb136C1EB65328d6ac",
+      "pointer": "0x186D2E96148Ef53CB571ABA2a825Ca74DA862436"
+    },
+    {
+      "index": 10,
+      "name": "turtleTopBars",
+      "filename": "turtleTopBars.svg",
+      "bytes": 5477,
+      "TopData": "0x092003f0d919F11E001d2303AF5087F1EC50d2AC",
+      "pointer": "0x960D877650d65374f939ab07d9c8255b35799e16"
+    },
+    {
+      "index": 11,
+      "name": "turtleTopFaces",
+      "filename": "turtleTopFaces.svg",
+      "bytes": 6142,
+      "TopData": "0x3e472Ec130B3bA14FB0006023cef622a5FE21C4a",
+      "pointer": "0xdbd04F37697D3CCa6262a1B3b2f4f370B86879F2"
+    },
+    {
+      "index": 12,
+      "name": "turtleTopFaces2",
+      "filename": "turtleTopFaces2.svg",
+      "bytes": 4850,
+      "TopData": "0x8aA8EC710d5D5Aa92ff94F7fBffC54e8E5a6ad20",
+      "pointer": "0xeb7EAA126DEF2bfF63390c7C5CeFd32f38cC857f"
+    }
+  ]
+}
